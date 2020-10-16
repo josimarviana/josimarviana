@@ -11,5 +11,5 @@
 ### Hi there 👋
 
 Sou Engenheiro de Software, atuo na área desde 2015 (e desde 1997 estudando informática 😱) e sou mestre em Computação Aplicada.
-<br>
+<br><br><br>
 ![](https://komarev.com/ghpvc/?username=josimarviana)
