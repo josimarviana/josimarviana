@@ -1,5 +1,25 @@
+apiVersion: v44
+kind: Human
+metadata:
+  name: Josimar Viana
+spec:
+  purpose: Help others learn programming
+  locations:
+    - 
+      type: Instagram
+      where: josimarviana
+    - 
+      type: Homepage
+      where: beacons.ai/josimarviana
+    - 
+      type: Email
+      where: josimarviana.gmail
+  favorites:
+    number: 13
+    emoji: 🤦
+    food: 🥩
+    drink: 🥃
 
-![Markdown](josimarviana.png)
 <center>
 <table>
     <tr>
